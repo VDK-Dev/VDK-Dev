@@ -1,3 +1,12 @@
+# About me
+
+### [Español]: ¡Hola!, soy Vladiroski (AKA: VDK), programador medio novato que tambien gusta de dibujar y hacer modelado 3D.<br> Soy de argentina y tengo 16 años.
+
+<br>
+
+### [English]: Hello!, i'm Vladiroski (AKA: VDK), a mid noob programmer also likes drawing and 3D modelling.<br> i am from argentina and i'm 16 years old.
+*Sorry if my english is a shit :(
+
 # My  Technologies
 
 ### **Languages**
@@ -5,10 +14,6 @@
 - ### Python
 
 - ### Java
-
-- ### C#
-
-- ### Kotlin
 
 ### **IDEs**
 
